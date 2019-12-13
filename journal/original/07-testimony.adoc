@@ -1,3 +1,4 @@
+[#testimony, short="Testimony of Haddonfield Monthly Meeting"]
 == Testimony of Haddonfield Monthly Meeting, concerning our beloved friend Richard Jordan, deceased.
 
 It appears from memorandums which he has left, that his parents,
@@ -16,7 +17,7 @@ But not keeping close to this religious exercise,
 the tendering sense of divine goodness became much effaced,
 his mind alienated from the source of all true comfort,
 and his feet with avidity were tracing the paths of temptation and lying vanities.
-In this condition it pleased the Shepherd of Israel renewed ly to
+In this condition it pleased the Shepherd of Israel renewedly to
 bring him under a deep sense of judgment and condemnation for sin;
 and as he patiently and humbly abode under this refining baptism,
 though at times tempted to give up all hope of ever
@@ -231,9 +232,11 @@ held at Haddonfield, New Jersey, the thirteenth-day of the third month, 1827,
 and directed to be signed by the clerks of the respective meetings,
 and forwarded to the Quarterly meeting.
 
---John M. Kaign, Sarah Clement, Clerks.
+[.signed-section-signature]
+John M. Kaign, Sarah Clement, Clerks.
 
 Read and approved in Haddonfield Quarterly meeting, held third month fifteenth, 1827,
 and directed to be signed and forwarded to the Meeting for Sufferings.
 
---David Roberts, Clerk.
+[.signed-section-signature]
+David Roberts, Clerk.

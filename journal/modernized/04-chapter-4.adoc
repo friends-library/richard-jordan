@@ -305,8 +305,8 @@ a disposition quite different from this seemed to me to prevail in this country,
 that is to say, soul eat, drink, and enjoy the good of all your labour,
 for you have goods laid up for many years.
 
-Having heard of a few religious people in Amsterdam M`'
-ho had forsaken the national worship,
+Having heard of a few religious people in Amsterdam who
+had forsaken the national worship,
 and for some time had met together, and sat in silence,
 pretty much in the way of Friends, we sought them out this afternoon,
 and proposed sitting with them on the morrow, of which they seemed glad.
@@ -753,6 +753,9 @@ or if you are pleased to bring me safe to land again, I will surely sing your pr
 I will tell of your goodness in the congregation of your people,
 I will speak of your wondrous works.
 
+[.embedded-content-document.letter]
+--
+
 +++[+++Editor`'s Note: During the period of his stay on the continent of Europe,
 the existence of a state of warfare, presented many obstacles to travelling with safety,
 and exposed foreigners to much suspicion and many difficulties.
@@ -840,8 +843,10 @@ and his release from long confinement in a vessel,
 which a variety of circumstances rendered extremely unpleasant, may readily be conceived.
 He appointed a public meeting for Divine worship in the town,
 to which the captain and some of the crew came,
-and it proved a memorable and humbling opportunity to many present.^
-footnote:[From A Biographical Memoir of Richard Jordan]]
+and it proved a memorable and humbling opportunity to many present.]^
+footnote:[From [.book-title]#A Biographical Memoir of Richard Jordan#]
+
+--
 
 Hearing there was to be a quarterly meeting held next day at Kingsbridge,
 about twelve miles from this place, I felt very desirous of being at it,
