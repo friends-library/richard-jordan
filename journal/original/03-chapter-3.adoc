@@ -32,8 +32,9 @@ as comfortably as its proceeds would admit of, he enjoined upon her,
 not to contract any debts; that if he should not live to return home,
 no one might suffer any loss on his account,
 nor the least shade be cast upon the religious profession they were making.^
-footnote:[From A Biographical Memoir of Richard Jordan]
+footnote:[From [.book-title]#A Biographical Memoir of Richard Jordan#]
 
+[.offset]
 His journal continues:]
 
 Third month, sixteenth, 1799, At our monthly meeting, I have now,
@@ -636,7 +637,7 @@ Sixth-day, twenty-fourth.
 The wind being still unfavourable for sailing out of this port,
 a young man Friend from this place agreeing to accompany me to Dublin,
 we took a boat and sailed up the river Mersey, about ten or twelve miles to a canal,
-where we got into a canal boat and proceeded to Chester, the county Jown of Cheshire,
+where we got into a canal boat and proceeded to Chester, the county town of Cheshire,
 and put up at an inn with very civil people.
 The passengers in the boat were generally very respectful to us,
 though none of them were professors with us; several who lived in Wales,
@@ -963,6 +964,9 @@ and several Friends from this nation going over to the yearly meeting at London,
 went on board a small vessel called a cutter,
 and arrived at Holyhead the next day in the evening.
 
+[.embedded-content-document.letter]
+--
+
 +++[+++Editor`'s Note: His visit to Friends in Ireland,
 was somewhat extraordinary in its character and productive of memorable consequences.
 A short time previous to his going into that nation, a number of persons,
@@ -1003,8 +1007,10 @@ and began to spread discord and unbelief among its members,
 Richard Jordan as a faithful and experienced watchman,
 was one of the first to raise his warning voice,
 and exert himself under the influence of Divine love,
-to counteract their baneful effects.^
-footnote:[From A Biographical Memoir of Richard Jordan]]
+to counteract their baneful effects.]^
+footnote:[From [.book-title]#A Biographical Memoir of Richard Jordan#]
+
+--
 
 Early the following morning we hired a coach and chaise, and set out for London,
 going by the way of Salop, Colebrookdale and Birmingham,

@@ -677,6 +677,9 @@ of your own inclination, go; but as though he had said for your encouragement,
 "`never heed, Simon, only do as I bid you and all will be well,`" he says unto you,
 "`follow me.`"
 
+[.embedded-content-document.letter]
+--
+
 +++[+++Editor`'s Note: The meeting in the neighbourhood of Hartford was very small,
 and the inhabitants generally Presbyterians,
 who were not very favourably disposed towards Friends.
@@ -721,7 +724,10 @@ he felt himself constrained, as a steward that must render an account to his Lor
 solemnly and emphatically to forewarn his Friends of the danger,
 if happily they might escape the deplorable consequences,
 which he had seen similar sentiments produce in a
-foreign land.--Taken from Memoirs of Richard Jordan.]
+foreign land.]^
+footnote:[Taken from [.book-title]#Memoirs of Richard Jordan#.]
+
+--
 
 I must now leave this seeming digression, and mention,
 that as soon as I was fully satisfied in my own mind,
